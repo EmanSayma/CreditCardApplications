@@ -1,0 +1,9 @@
+/Users/eman.sayma/Documents/dotnet/testing/course2/CreditCardApplications/CreditCardApplications/bin/Debug/netcoreapp3.1/CreditCardApplications.deps.json
+/Users/eman.sayma/Documents/dotnet/testing/course2/CreditCardApplications/CreditCardApplications/bin/Debug/netcoreapp3.1/CreditCardApplications.dll
+/Users/eman.sayma/Documents/dotnet/testing/course2/CreditCardApplications/CreditCardApplications/bin/Debug/netcoreapp3.1/CreditCardApplications.pdb
+/Users/eman.sayma/Documents/dotnet/testing/course2/CreditCardApplications/CreditCardApplications/obj/Debug/netcoreapp3.1/CreditCardApplications.csprojAssemblyReference.cache
+/Users/eman.sayma/Documents/dotnet/testing/course2/CreditCardApplications/CreditCardApplications/obj/Debug/netcoreapp3.1/CreditCardApplications.AssemblyInfoInputs.cache
+/Users/eman.sayma/Documents/dotnet/testing/course2/CreditCardApplications/CreditCardApplications/obj/Debug/netcoreapp3.1/CreditCardApplications.AssemblyInfo.cs
+/Users/eman.sayma/Documents/dotnet/testing/course2/CreditCardApplications/CreditCardApplications/obj/Debug/netcoreapp3.1/CreditCardApplications.csproj.CoreCompileInputs.cache
+/Users/eman.sayma/Documents/dotnet/testing/course2/CreditCardApplications/CreditCardApplications/obj/Debug/netcoreapp3.1/CreditCardApplications.dll
+/Users/eman.sayma/Documents/dotnet/testing/course2/CreditCardApplications/CreditCardApplications/obj/Debug/netcoreapp3.1/CreditCardApplications.pdb

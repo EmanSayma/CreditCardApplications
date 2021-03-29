@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{87C63080-78E8-443E-A0BC-C3FB574F0B90}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CreditCardApplications.Tests/CreditCardApplicationEvaluatorShould.cs">
+    <Files>
+      <File FileName="CreditCardApplications/CreditCardApplicationEvaluator.cs" Line="9" Column="55" />
+      <File FileName="CreditCardApplications.Tests/CreditCardApplicationEvaluatorShould.cs" Line="154" Column="13" />
+      <File FileName="CreditCardApplications/IFrequentFlyerNumberValidator.cs" Line="23" Column="50" />
+      <File FileName="CreditCardApplications/FrequentFlyerNumberValidator.cs" Line="39" Column="38" />
+      <File FileName="CreditCardApplications/ValidationMode.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CreditCardApplications" expanded="True">
+            <Node name="CreditCardApplications" expanded="True" />
+            <Node name="CreditCardApplications.Tests" expanded="True">
+              <Node name="CreditCardApplicationEvaluatorShould.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="CreditCardApplications" expanded="True">
+            <Node name="CreditCardApplications.Tests" expanded="True">
+              <Node name="CreditCardApplications.Tests" expanded="True">
+                <Node name="CreditCardApplicationEvaluatorShould" expanded="True" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CreditCardApplications.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/eman.sayma/Documents/dotnet/testing/course2/CreditCardApplications/CreditCardApplications/CreditCardApplicationEvaluator.cs" relfile="CreditCardApplications/CreditCardApplicationEvaluator.cs" line="23" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
